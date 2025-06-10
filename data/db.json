@@ -1,0 +1,58 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "namee": "gunjan",
+      "password": "1234",
+      "email": "komal@gamil.com"
+    },
+    {
+      "id": "5a92",
+      "namee": "komal",
+      "password": "1",
+      "email": "DFDHJD"
+    },
+    {
+      "id": "7cc7",
+      "namee": "komal",
+      "password": "1",
+      "email": "DFDHJD"
+    },
+    {
+      "id": "e866",
+      "namee": "komal",
+      "password": "2",
+      "email": "2"
+    },
+    {
+      "id": "c314",
+      "namee": "komal",
+      "password": "2",
+      "email": "2"
+    },
+    {
+      "id": "0ada",
+      "namee": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "fe20",
+      "namee": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "ff81",
+      "namee": "komal",
+      "password": "12",
+      "email": "komal@gamil.com"
+    },
+    {
+      "id": "be6d",
+      "namee": "",
+      "password": "",
+      "email": ""
+    }
+  ]
+}
